@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+
+int main() {
+
+   printf("program to print HAPPY TEACHER'S DAY ON THE CONSOLE SCREEN\n");
+   
+   printf("\"Happy Teacher's Day\"\n");
+     
+   printf("'Happy Teacher's Day' ");
+    
+    return 0;
+
+}
