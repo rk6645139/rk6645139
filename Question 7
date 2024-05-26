@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+
+    printf("Program to co vert speed from kilometers per hour to miles per hour,,\n");
+
+    float kms ,miles;
+
+    printf(" enter the kilometer per hour of a");
+
+    scanf("%f", &kms);
+
+    miles=kms*0.621371;
+
+    printf("%f", miles);
+
+    return 0;
+
+}
