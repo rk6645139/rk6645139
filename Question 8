@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main() {
+
+    printf("program to display entered number of nimutes in HH:MM format\n");
+
+    int min, hr, re_min;
+
+    // here min is for minutes stands for minutes
+    // hr is taken as hours
+    //re_min stands for remaining minutes
+    
+    printf("Enter the total minutes: ");
+
+    scanf("%d", &min);
+
+    hr= min/60;
+
+    re_min = min%60;
+
+    printf("%d:%d.\n", h, remaining);
+
+    return 0;
+
+}
