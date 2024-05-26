@@ -16,7 +16,7 @@ int main()
 
     days = days - ( (years*365) + (weeks*7) ); 
 
-    printf("Enetered number of days has : %d Years,\n", years);
+    printf("Entered number of days has : %d Years,\n", years);
 
     printf(" %d Weeks, and\n", weeks);
 
