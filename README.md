@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rk6645139
+- 👋 Hi, I’m @Ritesh
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning C language. 
 - 📫 you can contact me on rk6645139@gmail.com
