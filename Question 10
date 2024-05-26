@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main() {
+
+
+    printf("Program to find the Volume of sphere with entered radius:::: \n");
+
+    float Vol, rad, pi=3.14;
+
+    printf("enter the radius of sphere ,R:");
+
+    scanf("%f", &rad);
+
+    Vol=(4/3)*pi*rad*rad*rad;
+
+
+    printf("the volume of sphere with radius, %f, is: %f ", rad, Vol);
+
+    return 0;
+
+
+}
+
