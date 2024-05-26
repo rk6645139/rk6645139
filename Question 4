@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+
+int main() {
+
+    printf("program to print \\n on the console screen\n");
+
+    printf("\\n\n" );
+
+      printf("\\r\n" );
+
+
+    return 0;
+}
